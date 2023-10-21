@@ -1,0 +1,15 @@
+.Pbutton{
+    
+    float:left;
+    margin: 10px -220px;
+    color:white;
+    background-color: skyblue;
+    font-size: medium;
+    font-weight: 750;
+    border-color: skyblue;
+    
+}
+.price{
+    float:left;
+    margin: 0px 370px;
+}

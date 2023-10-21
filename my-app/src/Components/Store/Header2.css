@@ -1,0 +1,12 @@
+.ulist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:gray;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;  
+  }
+  

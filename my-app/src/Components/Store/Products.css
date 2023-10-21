@@ -1,0 +1,39 @@
+.Plist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    
+   
+  }
+  .list{
+    float: left;
+    padding: 0px 475px;
+   font-size: x-large;
+   font-weight: 750;
+   font-family: 'Times New Roman', Times, serif;
+   margin: 15px 25px;
+  }
+  .Rlist{
+    float: left;
+   font-size: x-large;
+   font-weight: 750;
+   font-family: 'Times New Roman', Times, serif;
+   margin: 10px -75px;
+  }
+  .column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .imgalign{
+    max-width: 250px;
+    margin: 0px 400px;
+  }
